@@ -14,44 +14,44 @@
 
 ### Données socio-économiques : 
 
-US gov data : https://data.gov/
-OFS : https://www.bfs.admin.ch/bfs/fr/home/statistiques.html
-Opendata swiss : https://opendata.swiss/fr
+* US gov data : https://data.gov/
+* OFS : https://www.bfs.admin.ch/bfs/fr/home/statistiques.html
+* Opendata swiss : https://opendata.swiss/fr
 
 ### Images
 
-Paperswithcode : https://paperswithcode.com/datasets
-ImageNet : https://image-net.org/index.php
-COCO Dataset : https://cocodataset.org/ 
-CIFAR-10 : https://www.cs.toronto.edu/~kriz/cifar.html
+* Paperswithcode : https://paperswithcode.com/datasets
+* ImageNet : https://image-net.org/index.php
+* COCO Dataset : https://cocodataset.org/ 
+* CIFAR-10 : https://www.cs.toronto.edu/~kriz/cifar.html
 
 ### Données textuelles
 
-Projet Gutenberg : https://www.gutenberg.org/
-Large Movie Review Dataset : https://ai.stanford.edu/~amaas/data/sentiment/
-Movie Reiew Data : http://www.cs.cornell.edu/people/pabo/movie-review-data/
-Wordnet : https://wordnet.princeton.edu/
-Liste de copora : https://en.wikipedia.org/wiki/List_of_text_corpora
+* Projet Gutenberg : https://www.gutenberg.org/
+* Large Movie Review Dataset : https://ai.stanford.edu/~amaas/data/sentiment/
+* Movie Reiew Data : http://www.cs.cornell.edu/people/pabo/movie-review-data/
+* Wordnet : https://wordnet.princeton.edu/
+* Liste de copora : https://en.wikipedia.org/wiki/List_of_text_corpora
 
 ## Serveurs pour notebooks
 
-Google Colab: https://colab.research.google.com/
-Paperspace Gradient : https://www.paperspace.com/gradient
-Kaggle : https://www.kaggle.com/
-Amazon SageMaker : https://aws.amazon.com/fr/sagemaker/
+* Google Colab: https://colab.research.google.com/
+* Paperspace Gradient : https://www.paperspace.com/gradient
+* Kaggle : https://www.kaggle.com/
+* Amazon SageMaker : https://aws.amazon.com/fr/sagemaker/
 
 ## Blogs, sites et cours
 
-Google AI blog : https://ai.googleblog.com/
-OpenAI blog : https://openai.com/blog/
-Machine Leargning is Fun! : https://www.machinelearningisfun.com/
-Jay Alammar blog : https://jalammar.github.io/
-Machine Learning @ BERKELEY : https://ml.berkeley.edu/blog/
-Machine Learning Mastery : https://machinelearningmastery.com/blog/
-Towards data science : https://towardsdatascience.com/
-NLP-progress : http://nlpprogress.com/
-Cours fast-ai : https://course.fast.ai/
-Cours Andrew Ng : https://www.coursera.org/learn/machine-learning
+* Google AI blog : https://ai.googleblog.com/
+* OpenAI blog : https://openai.com/blog/
+* Machine Leargning is Fun! : https://www.machinelearningisfun.com/
+* Jay Alammar blog : https://jalammar.github.io/
+* Machine Learning @ BERKELEY : https://ml.berkeley.edu/blog/
+* Machine Learning Mastery : https://machinelearningmastery.com/blog/
+* Towards data science : https://towardsdatascience.com/
+* NLP-progress : http://nlpprogress.com/
+* Cours fast-ai : https://course.fast.ai/
+* Cours Andrew Ng : https://www.coursera.org/learn/machine-learning
 
 ## Livres
 
