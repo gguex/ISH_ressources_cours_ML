@@ -4,13 +4,13 @@
 
 ### Généralistes
 
-Kaggle : https://www.kaggle.com/datasets
-UCI Machine Learning Repository : https://archive.ics.uci.edu/ml/index.php
-IEEEDataport : https://ieee-dataport.org/datasets
-Webz.io : https://webz.io/free-datasets/
-OpendataSoft : https://data.opendatasoft.com/pages/home/
-Yahoo Datasets : https://webscope.sandbox.yahoo.com/
-Recherche de données avec Google : https://datasetsearch.research.google.com/
+* Kaggle : https://www.kaggle.com/datasets
+* UCI Machine Learning Repository : https://archive.ics.uci.edu/ml/index.php
+* IEEEDataport : https://ieee-dataport.org/datasets
+* Webz.io : https://webz.io/free-datasets/
+* OpendataSoft : https://data.opendatasoft.com/pages/home/
+* Yahoo Datasets : https://webscope.sandbox.yahoo.com/
+* Recherche de données avec Google : https://datasetsearch.research.google.com/
 
 ### Données socio-économiques : 
 
