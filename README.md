@@ -1,5 +1,4 @@
-# Ressources pour le cours de Machine Learning 
-# (UNIL, Lettres, MA-ISH, SA)
+# Ressources pour le cours de Machine Learning (UNIL, Lettres, MA-ISH)
 
 
 
