@@ -5,7 +5,7 @@
 ### Généralistes
 
 * Kaggle : https://www.kaggle.com/datasets
-* UCI Machine Learning Repository : https://archive.ics.uci.edu/ml/index.php
+* UCI Machine Learning Repository : https://archive.ics.uci.edu/datasets
 * IEEEDataport : https://ieee-dataport.org/datasets
 * Webz.io : https://webz.io/free-datasets/
 * OpendataSoft : https://data.opendatasoft.com/pages/home/
