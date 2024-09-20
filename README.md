@@ -43,7 +43,7 @@
 ## Blogs, sites et cours
 
 * Google AI blog : https://ai.googleblog.com/
-* OpenAI blog : https://openai.com/blog/
+* OpenAI news : https://openai.com/news/
 * Machine Leargning is Fun! : https://www.machinelearningisfun.com/
 * Jay Alammar blog : https://jalammar.github.io/
 * Machine Learning @ BERKELEY : https://ml.berkeley.edu/blog/
@@ -58,6 +58,8 @@
 ### Théoriques 
 
 Bishop, C. M. (2016). *Pattern Recognition and Machine Learning* (Softcover reprint of the original 1st edition 2006 (corrected at 8th printing 2009)). Springer New York.
+
+Bishop, C. M., & Bishop, H. (2023). *Deep learning: Foundations and concepts*. Springer Nature.
 
 Hastie, T., Tibshirani, R., & Friedman, J. H. (2009). *The elements of statistical learning : Data mining, inference, and prediction* (2nd ed). Springer.
 
