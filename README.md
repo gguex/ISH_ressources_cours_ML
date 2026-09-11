@@ -19,7 +19,6 @@
 
 ### Images
 
-* Paperswithcode :[https://paperswithcode.com/datasets]
 * ImageNet : [https://image-net.org/index.php]
 * COCO Dataset : [https://cocodataset.org/] 
 * CIFAR-10 : [https://www.cs.toronto.edu/~kriz/cifar.html]
